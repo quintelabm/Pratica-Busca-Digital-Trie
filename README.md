@@ -24,13 +24,13 @@ Você deve criar um TAD para representar a Trie binária conforme passado nos sl
 
 Para compilar:
 
-'''
+```
 >>> edite aqui
-'''
+```
 
 Para executar:
 
-'''
+```
 >>> edite aqui.
-'''
+```
 
