@@ -4,11 +4,11 @@ Repositório template para atividade prática sobre Busca Digital com Trie. Disc
 
 As 'Tries' são árvores de busca digital que permitem que as chaves sejam armazenadas em partes em que cada nó da chave contém um dígito e todas as chaves estão definidas em folhas. O nome vem da palavra ReTRIEval e foi proposta em 1960 por Edward Fredkin.
 
-# Conteúdo
+## Conteúdo
 
 Nesse repositório não são fornecidos os códigos, você deve implementar o que foi pedido da forma que julgar mais adequada.
 
-# Objetivos
+## Objetivos
 
 Praticar a implementação de uma estrutura Trie binária em C++ para melhorar a compreensão dos conceitos relacionados.  
 
